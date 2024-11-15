@@ -1,3 +1,13 @@
+# README.MD
+
+This repo conains a github page to the Rubber Duck Debugging Pocket Reference, a fictional book that want to be a guide to the art of Rubber Duck Debugging.
+
+It is completly free to use, fork or whatever you want to do with it.
+
+---
+
+### Credits
+
 Strata by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
