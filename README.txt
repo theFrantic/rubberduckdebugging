@@ -4,6 +4,8 @@ This repo conains a github page to the Rubber Duck Debugging Pocket Reference, a
 
 It is completly free to use, fork or whatever you want to do with it.
 
+Go to the [Site URL](https://thefrantic.github.io/rubberduckdebugging/)
+
 ---
 
 ### Credits
