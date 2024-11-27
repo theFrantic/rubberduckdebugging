@@ -6,6 +6,11 @@ It is completly free to use, fork or whatever you want to do with it.
 
 Go to the [Site URL](https://thefrantic.github.io/rubberduckdebugging/)
 
+## Using devcontainer
+
+After Rebuild the container, yu must run jekkyl from the container terminal:
+`$ bundle exec jekyll serve --host 0.0.0.0
+
 ---
 
 ### Credits

@@ -1,0 +1,21 @@
+{
+    "name": "Jekyll",
+    "dockerFile": "Dockerfile",
+    "context": "..",
+    "forwardPorts": [4000],
+    "runArgs": ["-p", "4000:4000"],
+    "customizations": {
+        "vscode": {
+            "settings": {
+                "terminal.integrated.shell.linux": "/bin/bash"
+            },
+            "extensions": [
+                "dbaeumer.vscode-eslint",
+                "rebornix.ruby", // Ruby extension for Jekyll
+                "GitHub.copilot" // GitHub Copilot extension
+            ]
+        }
+    },
+    //"postCreateCommand": "bundle install", // Ensure dependencies are installed after the container is created
+    "remoteUser": "jekyll"
+}

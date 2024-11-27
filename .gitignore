@@ -1,0 +1,45 @@
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Jekyll
+_site/
+.sass-cache/
+.jekyll-cache/
+
+# Bundler
+.bundle/
+vendor/
+
+# Ruby-specific files
+*.gem
+*.rbc
+.yardoc
+*.yardoc/
+Gemfile.lock
+
+# Byebug history
+.byebug_history
+
+# Log files
+*.log
+
+# Temporary files
+*~
+*.swp
+*~.nib
+*.bak
+
+# VS Code settings
+.vscode/
+
+# Ignore node_modules (if using JS for frontend)
+node_modules/
+
+# Ignore IDE files (if using JetBrains or other IDEs)
+.idea/
+
+# Ignore Docker related files
+*.dockerignore
+docker-compose.override.yml
