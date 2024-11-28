@@ -8,8 +8,18 @@ Go to the [Site URL](https://thefrantic.github.io/rubberduckdebugging/)
 
 ## Using devcontainer
 
-After Rebuild the container, yu must run jekkyl from the container terminal:
-`$ bundle exec jekyll serve --host 0.0.0.0
+### Requirements
+
+- Docker
+- Visual Studio Code DevContainer Extension
+
+### How-To
+
+Clone the project on Visual Sudio Code and use the Command Pallete -> Dev Containers: Open Project in Container
+
+This should prepare the docker with all needed extensions.
+
+It will execute jekkyl so you can view the site locally on localhost:4000 at your browser.
 
 ---
 
@@ -48,3 +58,5 @@ Credits:
 	Other:
 		jQuery (jquery.com)
 		Responsive Tools (github.com/ajlkn/responsive-tools)
+
+ORL'Y Cover: [O'RLY Book Cover Generator](https://make.orlybooks.com/)
