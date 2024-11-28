@@ -10,8 +10,8 @@
                 "terminal.integrated.shell.linux": "/bin/bash"
             },
             "extensions": [
-                "dbaeumer.vscode-eslint",
-                "rebornix.ruby", // Ruby extension for Jekyll
+                "esbenp.prettier-vscode",
+                "christian-kohler.path-intellisense", // Ruby extension for Jekyll
                 "GitHub.copilot" // GitHub Copilot extension
             ]
         }
