@@ -16,6 +16,6 @@
             ]
         }
     },
-    //"postCreateCommand": "bundle install", // Ensure dependencies are installed after the container is created
+    "postCreateCommand": "bundle install && bundle exec jekyll serve --host 0.0.0.0",
     "remoteUser": "jekyll"
 }
