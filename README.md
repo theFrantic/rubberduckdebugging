@@ -6,12 +6,16 @@ It is completly free to use, fork or whatever you want to do with it.
 
 Go to the [Site URL](https://thefrantic.github.io/rubberduckdebugging/)
 
-## Using devcontainer
+## Using Dev Containers
+
+### Info about Dev Containers
+
+https://code.visualstudio.com/docs/devcontainers/containers
 
 ### Requirements
 
 - Docker
-- Visual Studio Code DevContainer Extension
+- Visual Studio Code Dev Containers Extension
 
 ### How-To
 
